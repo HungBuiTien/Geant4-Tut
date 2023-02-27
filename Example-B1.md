@@ -1,1 +1,1 @@
-#Giải thích ví dụ B1
+# VÍ DỤ B1
